@@ -9,5 +9,4 @@ public class ZzpAiAgentApplication {
     public static void main(String[] args) {
         SpringApplication.run(ZzpAiAgentApplication.class, args);
     }
-
 }
